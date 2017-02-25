@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Spanish App!</string>
+    <string name="edit_message">Enter a Spanish message!</string>
+    <string name="button_send">Spanish Send!</string>
+</resources>
